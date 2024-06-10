@@ -1,6 +1,7 @@
 # A-Novel-On-board-SOH-Estimation-Method-for-Lithium-ion-Batteries-with-Hybrid-Feature-Approach
 
-This repository is created to share codes/data for manuscript titled "A-Novel-On-board-SOH-Estimation-Method-for-Lithium-ion-Batteries-with-Hybrid-Feature-Approach". For any other further explanation & requests can be obtained upon reaching yigitcem991@gmail.com
+This repository is created to share codes/data for manuscript titled "A-Novel-On-board-SOH-Estimation-Method-for-Lithium-ion-Batteries-with-Hybrid-Feature-Approach". Data precrocessing was conducted both python & Matlab enviroment.Whilst,Machine learning model was conducted on MATLAB Neural Network Fitting Tool.
+For any other further explanation & requests can be obtained upon reaching yigitcem991@gmail.com
 
 ## Datasets: 
 C.R. Birkl University of Oxford; Oxford: 2017. Diagnosis and Prognosis of Degradation in Lithium-Ion Batteries. (https://ora.ox.ac.uk/objects/uuid:03ba4b01-cfed-46d3-9b1a-7d4a7bdf6fac)
